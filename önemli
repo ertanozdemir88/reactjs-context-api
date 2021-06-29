@@ -1,1 +1,3 @@
 localhostta çalışması için terminal e unset HOST yazarak çalıştır
+
+db için : json-server --watch db.json --port 3004 
