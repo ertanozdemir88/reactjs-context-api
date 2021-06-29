@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Ertan Özdemir",
+      "salary": "10000",
+      "department": "Yazılım"
+    },
+    {
+      "name": "Erhan Özdemir",
+      "salary": "7000",
+      "department": "Finans",
+      "id": "u2"
+    },
+    {
+      "name": "Halil",
+      "salary": "4000",
+      "department": "Torna 2",
+      "id": "BjDIKLL"
+    },
+    {
+      "name": "Murat",
+      "department": "Yazılım",
+      "salary": "6000",
+      "id": "zA7gkGn"
+    },
+    {
+      "name": "Hasa",
+      "department": "Yazılım",
+      "salary": "6000",
+      "id": "tPdcaqZ"
+    },
+    {
+      "name": "Kemal",
+      "department": "Yazılım",
+      "salary": "5000",
+      "id": "v3Jddle"
+    },
+    {
+      "name": "Mak",
+      "department": "MAk",
+      "salary": "1000",
+      "id": "Fbowfm1"
+    }
+  ]
+}
